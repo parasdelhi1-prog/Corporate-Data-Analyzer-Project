@@ -75,3 +75,32 @@ Write a complete Python program using Tkinter and Pandas that does the following
 - Provide the full Python code in one single block
 - Ensure the program is production-ready
 - Do not omit any required functionality
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+I would like to share my recent Python project: Corporate Data Analyzer, developed as part of my data analytics journey. This desktop application was built using Python, Tkinter, Pandas, and Matplotlib to help non technical users analyze data without writing code.
+
+🔍 Project Highlights
+
+The Corporate Data Analyzer enables users to:
+
+•	Upload Excel/CSV files and instantly view dataset information (rows, columns, metadata).
+•	Automatically detect text and numeric columns for analysis.
+•	Generate grouped and aggregated reports using methods like sum, mean, max, min, count, and median.
+•	Visualize data with charts (Bar, Line, Pie, Column) directly inside the GUI.
+•	Export reports to Excel/CSV and charts to PNG images for reuse.
+
+🛠️ Technical Approach
+
+I coded this project in Visual Studio Code and executed it via Command Prompt, making it a complete end to end automation tool. The GUI interface was designed with Tkinter for a clean and professional look, Pandas handled the data processing, and Matplotlib powered the visualizations.
+
+📈 Learning Impact
+
+This project strengthened my skills in:
+•	Python programming for real world applications
+•	GUI development with Tkinter
+•	Data analysis and visualization using Pandas and Matplotlib
+•	Building corporate ready automation tools that simplify complex tasks
+
+In short, this project reflects my ability to design and implement practical Python solutions, bridging the gap between raw data and actionable business intelligence.
